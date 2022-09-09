@@ -14,3 +14,7 @@ kh_load(dplyr, ggplot) #examples of packages to load
 
 ## More columns
 If the souce code will need mutate columns other than those in the original data, please define the needed column in `TAB` or `VAL` with value `<NA>` 
+
+## Folder
+
+Please keep R files and Stata files in their respective folders
