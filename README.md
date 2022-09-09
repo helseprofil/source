@@ -5,7 +5,7 @@ Specify with:
 - `SourceR("fileName.R")` for R files
 - `SourceStata("fileName.do")` for Stata files
 
-When source an R file, it's advisable to use `kh_load()` function to load R packages. Add these line on top of your R file.
+When sourcing an R file, it's advisable to use `kh_load()` function to load R packages. Add these line on top of your R file to make `kh_load()` available.
 
 ```R
 source("https://raw.githubusercontent.com/helseprofil/misc/main/utils.R")
