@@ -1,5 +1,5 @@
 # Source Files
-Files to source in orgdata via `EXTRA` columns either for files or filegroups tables.
+Files to source in **orgdata** via `EXTRA` columns either for files or filegroups tables.
 
 Specify with:
 - `SourceR("fileName.R")` for R files
